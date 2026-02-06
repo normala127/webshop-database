@@ -54,7 +54,7 @@ The schema follows relational database best practices, including:
 ---
 
 ## Learning Outcomes
-Through this project, I gained hands-on experience in:
+Through this project, we gained hands-on experience in:
 - Designing scalable relational schemas
 - Translating business requirements into database structures
 - Writing structured and maintainable SQL
